@@ -35,3 +35,17 @@ export const HeaderContent = styled.div`
 
  }
  `;
+
+export const Titulo = styled.span`
+width:100%;
+max-width: 1120px;
+margin: 0 auto;
+padding: 0 1.5rem;
+
+
+display: flex;
+justify-content: space-between;
+align-items: center;
+font-weight: bold;
+color: #E1E1E6;
+;`
