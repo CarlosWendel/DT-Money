@@ -1,21 +1,52 @@
 {
-    "transaction": [
-        {
-            "id":1,
-            "description": "Desenvolvimento de site",
-            "type":"income",
-            "category":"Venda",
-            "price":14000,
-            "createdAt":" 2022-07-29T19:30:44.5052"
-        },
-        {
-            "id":2,
-            "description": "Hamburguer",
-            "type":"outcome",
-            "category":"Alimentação",
-            "price":50,
-            "createdAt":" 2022-07-29T19:30:44.5052"
-        }
-    ]
-
+  "transaction": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2025-05-01T16:30:00Z"
+    },
+    {
+      "id": "2",
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2025-05-10T14:30:00Z"
+    },
+    {
+      "id": "719d",
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2025-05-01T19:22:35.092Z"
+    },
+    {
+      "id": "8e27",
+      "description": "rice",
+      "price": 30,
+      "category": "compra",
+      "type": "outcome",
+      "createdAt": "2025-05-01T19:25:38.298Z"
+    },
+    {
+      "id": "f03b",
+      "description": "placa de video",
+      "price": 1200,
+      "category": "upgrade pc",
+      "type": "outcome",
+      "createdAt": "2025-05-01T19:45:51.810Z"
+    },
+    {
+      "id": "5357",
+      "description": "Monitor",
+      "price": 1500,
+      "category": "upgrade pc",
+      "type": "outcome",
+      "createdAt": "2025-05-01T19:58:50.879Z"
+    }
+  ]
 }
